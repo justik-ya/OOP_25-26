@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=03e69f12_002D28e4_002D4c9f_002D974d_002Dce7e95a1e464/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AllDigitsTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::EB477B20-6866-4208-A23E-DD769E4E5309::net6.0::Task1.Tests.AllDigitsTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EB477B20-6866-4208-A23E-DD769E4E5309::net6.0::Task1.Tests.ContainsABCTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EB477B20-6866-4208-A23E-DD769E4E5309::net6.0::Task1.Tests.FindDigitalSubstringTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::EB477B20-6866-4208-A23E-DD769E4E5309::net6.0::Task1.Tests.HideDigitsTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
